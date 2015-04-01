@@ -1,5 +1,5 @@
 === SagePay Form Gateway for MarketPress ===
-Contributors: PatSaTECH
+Contributors: patsatech
 Tags: ecommerce, payment gateway, marketpress, sagepay form, credit card
 Requires at least: 3.5
 Tested up to: 4.1
